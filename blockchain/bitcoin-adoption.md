@@ -1,3 +1,5 @@
+
+
 <img src="https://hackernoon.com/banner-image.png" alt="drawing" width="1012"/>
 
 # [bitcoin-adoption](https://hackernoon.com/tagged/bitcoin-adoption)
